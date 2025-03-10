@@ -1,7 +1,7 @@
 
 # Simple-lama-inpainting
 
-Simple pip package originally from [LeftRefill](https://github.com/ewrfcas/LeftRefill)[1] inpainting with reference. Edited from the [wrapper](ttps://github.com/DavidXu-JJ/StreetUnveiler/blob/main/utils/left_refill_utils.py) from StreetUnveiler[2]
+Simple pip package originally from [LeftRefill](https://github.com/ewrfcas/LeftRefill)[1] inpainting with reference. Edited from the [wrapper](https://github.com/DavidXu-JJ/StreetUnveiler/blob/main/utils/left_refill_utils.py) from StreetUnveiler[2]
 
 The API design is similar to [simple-lama-inpainting](https://github.com/enesmsahin/simple-lama-inpainting).
 
