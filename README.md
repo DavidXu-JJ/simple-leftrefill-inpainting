@@ -7,7 +7,11 @@ The API design is similar to [simple-lama-inpainting](https://github.com/enesmsa
 
 ## Installation
 
+```bash
 pip install simple-leftrefill-inpainting
+```
+
+# CLI
 
 ```bash
 simple_leftrefill <path_to_inpainted_image> <path_to_mask_image> <path_to_reference_image> <path_to_output_image>
