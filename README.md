@@ -52,6 +52,9 @@ Result:
 
 ![](./assets/result.png)
 
+# License
+
+Please follow both LeftRefill license and the license in this repo.
 
 # Reference
 
