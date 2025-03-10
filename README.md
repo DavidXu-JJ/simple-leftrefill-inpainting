@@ -44,7 +44,7 @@ Inpainting Mask:
 
 ![](./assets/mask.png)
 
-Reference Mask:
+Reference Image:
 
 ![](./assets/reference.png)
 
